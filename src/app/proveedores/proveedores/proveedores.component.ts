@@ -22,6 +22,7 @@ export class ProveedoresComponent implements OnInit {
         })
 
    }
+   
   ngOnInit() {
   }
 
